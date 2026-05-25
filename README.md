@@ -1,7 +1,7 @@
 # Applied Machine Learning - Assignment Series
 This repository contains a collection of academic assignments focused on Symbolic Machine Learning, Concept Learning, and Ensemble Methodologies. The projects explore real-world applications in Cybersecurity and Astrobiology, highlighting the strengths and limitations of classical ML algorithms.
 
-## 📂 Repository Structure
+## 📂 Repository Structure 
 
 * **Cybersecurity Intrusion Detection (NIDS)**
     * `cybersecurity_intrusion_report.tex`: Comprehensive 8-page analysis of Decision Tree variants and Version Space constraints.
