@@ -1,4 +1,4 @@
-# Applied Machine Learning - Assignment Series
+# Applied Machine Learning - Assignment Series 
 This repository contains a collection of academic assignments focused on Symbolic Machine Learning, Concept Learning, and Ensemble Methodologies. The projects explore real-world applications in Cybersecurity and Astrobiology, highlighting the strengths and limitations of classical ML algorithms. 
 
 ## 📂 Repository Structure
